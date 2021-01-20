@@ -1,5 +1,5 @@
 # Boolean-calculator-Engine
-The Boolean Calculator Engine is an optimized version of my previous project "Boolean Complement Calculation using Unate Recursive Paradigm". Unlike the "boolean complement calculation using URP" where we can complement only one given function at a time, here we can manage several different huge boolean functions (upto 32) and calculate their boolean complements simultaneously using the "Boolean Calculator Engine" and can perform various logical operations. An example of one of the input files's format is given below:
+The Boolean Calculator Engine is an optimized version of my previous project "Boolean Complement Calculation using Unate Recursive Paradigm". Unlike the "boolean complement calculation using URP" where we were limited to complementing only one given function at a time, here using "Boolean Calculator Engine" we can manage several different huge boolean functions (upto 32), can calculate their boolean complements simultaneously and perform various logical operations on them, all of these in an instant. An example of one of the input files's format is given below:
 
 COMMAND FILE
 1.  r 2 // read in F2
