@@ -8,8 +8,6 @@
 #     Written by: Santosh Subramanian     #
 #                                         #
 ###########################################                                        
-CAN READ UPTO 32 DIFFERENT HUGE BOOLEAN FUNCTIONS(each comprising of upto 2^20 cubes) AND COMPLEMENT THEM SIMULTANEOUSLY USING URP
-AND PERFORM LOGICAL OPERATIONS 
 
 HONORS PROJECT: BOOLEAN CALCULATOR ENGINE (VLSI CAD LOGIC: PART1)
 '''
